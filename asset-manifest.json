@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/amazon-app/static/css/main.8a1dda84.chunk.css",
+    "main.css": "/amazon-app/static/css/main.ff258149.chunk.css",
     "main.js": "/amazon-app/static/js/main.41d336e1.chunk.js",
     "main.js.map": "/amazon-app/static/js/main.41d336e1.chunk.js.map",
     "runtime-main.js": "/amazon-app/static/js/runtime-main.1113cd41.js",
@@ -8,16 +8,16 @@
     "static/js/2.eee35344.chunk.js": "/amazon-app/static/js/2.eee35344.chunk.js",
     "static/js/2.eee35344.chunk.js.map": "/amazon-app/static/js/2.eee35344.chunk.js.map",
     "index.html": "/amazon-app/index.html",
-    "precache-manifest.e16c66642225763078caa89988d5e572.js": "/amazon-app/precache-manifest.e16c66642225763078caa89988d5e572.js",
+    "precache-manifest.494e49389f757b6c5959738d4830145e.js": "/amazon-app/precache-manifest.494e49389f757b6c5959738d4830145e.js",
     "service-worker.js": "/amazon-app/service-worker.js",
-    "static/css/main.8a1dda84.chunk.css.map": "/amazon-app/static/css/main.8a1dda84.chunk.css.map",
+    "static/css/main.ff258149.chunk.css.map": "/amazon-app/static/css/main.ff258149.chunk.css.map",
     "static/js/2.eee35344.chunk.js.LICENSE.txt": "/amazon-app/static/js/2.eee35344.chunk.js.LICENSE.txt",
     "static/media/mypic.jpg": "/amazon-app/static/media/mypic.32d584a1.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1113cd41.js",
     "static/js/2.eee35344.chunk.js",
-    "static/css/main.8a1dda84.chunk.css",
+    "static/css/main.ff258149.chunk.css",
     "static/js/main.41d336e1.chunk.js"
   ]
 }
